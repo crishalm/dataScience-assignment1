@@ -1,14 +1,4 @@
 Hypothesis Testing
-
-Is the average earnings per family is greater than 14000 if the education is greater than 12.
-  Parameters interested
-    Education
-    Earnings
-  m: Education when average earnings per family is greater than 14,000
-  H0: m = 14000
-  Ha: m < 14000
-
-Hypothesis Testing
 ==================
 
 Hypothesis
@@ -19,3 +9,10 @@ Ph : Average earnings of people with education level > 11<br/>
 Pl : Average earnings of people with education level < 11<br/>
 H0 : Ph = Pl<br/>
 Ha : Ph > pl<br/>
+
+Parameters interested
+---------------------
+ - Education
+ - Earnings
+ 
+ Since the hypotheses is based on earnings and education, even the other data available.
